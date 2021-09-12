@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.line {
+    width: 6px;
+    color:black;
+    margin: auto;
+}
